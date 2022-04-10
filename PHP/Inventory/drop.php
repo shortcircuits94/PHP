@@ -1,0 +1,3 @@
+<?php
+DROP TABLE Movies; 
+?>
