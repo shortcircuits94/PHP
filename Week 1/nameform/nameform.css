@@ -1,0 +1,16 @@
+form {
+	background: #cce6ff;
+	border:solid 1px;
+	border-color: blue; 
+	border-spacing: 5px;
+	padding: 5px;
+	padding-bottom: 10px;
+	
+}
+
+footer {
+	border-top: solid 1px;
+	border-spacing: 5px;
+	padding-top: 5px;
+	border-collapse: collapse;
+}
